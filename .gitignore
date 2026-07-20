@@ -1,0 +1,20 @@
+# PyCharm
+.idea/
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Arquivos gerados pelo PyInstaller
+build/
+dist/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
